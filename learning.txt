@@ -4,3 +4,4 @@ Day 1: Started learning GitHub and Git
 - Created a repository
 - Cloned it to my computer
 - Making my first commit!
+- Made some changes
