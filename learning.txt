@@ -1,0 +1,6 @@
+My learning Journey - Data Store
+
+Day 1: Started learning GitHub and Git
+- Created a repository
+- Cloned it to my computer
+- Making my first commit!
