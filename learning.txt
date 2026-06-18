@@ -5,3 +5,4 @@ Day 1: Started learning GitHub and Git
 - Cloned it to my computer
 - Making my first commit!
 - Now by myself I added new line 7
+
